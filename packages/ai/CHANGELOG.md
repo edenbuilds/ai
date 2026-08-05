@@ -1,5 +1,11 @@
 # ai
 
+## 6.0.243
+
+### Patch Changes
+
+- dd5d344: Skip re-validating tool input for terminal output-available UI message parts.
+
 ## 6.0.242
 
 ### Patch Changes
